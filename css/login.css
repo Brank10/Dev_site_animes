@@ -1,14 +1,8 @@
-
-
 .gradient-custom {
-    background-image: url('../img/logo_8.jpg');
+    background-image: url('../img/logo_9.jpg');
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     display: block;
-    
-	
-
 }
-
